@@ -1,0 +1,44 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    border-width: 5px;
+    width: 4%;
+}
+
+h1 {
+    font-family: "Brush Script MT", cursive;
+    font-size: xxx-large;
+    color: #439b9b;
+}
+h3,a {
+    font-family: "Brush Script Std", cursive;
+    color: #439b9b;
+}
+
+p,ul,ol,table {
+    color: #276d6d;
+}
+
+a:hover {
+    color: rgb(16, 212, 147);
+}
+h1:hover {
+    color: rgb(16, 212, 147);
+}
+
+
+.lit:hover {
+    color: rgb(16, 212, 147);
+}
+
+/********************CLASS SELECTOR****************/
+.circular {
+    border-radius: 100%;
+
+}

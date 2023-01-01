@@ -1,0 +1,172 @@
+
+    
+h1 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+h2 {
+    font-size: 35px;
+    color: hsl(160, 53%, 41%);
+} 
+    
+.profile {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    border-width: 5px;
+    width: 7%;
+}
+
+h3 {
+    font-size: 23px;
+    color: #31a082;
+}
+.skills{
+    margin: 50px auto 50px auto;
+}
+p {
+    color: #5c5f5e;
+    font-size: 20px;
+    margin-bottom: 0px;
+   
+}
+.circular {
+    margin-top: 50px;
+    border-radius: 50%;
+    width: 10%;
+}
+
+.skill-row {
+    width: 55%;
+    margin: 50px auto 50px auto;
+    line-height: 2
+}
+.chillies {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.comp {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+body {
+    margin: 0px;
+}
+.top-container{
+    position: relative;
+    background-color: #e0ebe8;
+    padding-bottom: 30%;
+    padding-top: 200px;
+    width: 100%;
+}
+.middle-container{
+    background-color:white;
+    padding-bottom: 50px;
+
+}
+.top-cloud {
+    position: absolute;
+    display: block;
+    left: 80%;
+    top: 20%;
+    width: 13%;
+}
+.bottom-cloud {
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 10%;
+    width: 13%;
+
+}
+.title {
+    position: absolute;
+    display: block;
+    top: 25%;
+    left: 40%;
+    width: 30% ;
+}
+.land {
+    position: absolute;
+    bottom: 0%;
+    left: 22%;
+    width: 60%;
+}
+.name {
+    position:absolute;
+    width: 80%;
+}
+.title1 {
+    position: relative;
+    top: 80px;
+    left: 14%;
+    width: 50%;
+}
+.skills {
+    text-align: center;
+    
+}
+.man {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+.contact-me{
+    margin-bottom: 0px;
+    text-align: center;
+    
+}
+.btn {
+    background: #63f08d;
+    background-image: -webkit-linear-gradient(top, #63f08d, #2bb890);
+    background-image: -moz-linear-gradient(top, #63f08d, #2bb890);
+    background-image: -ms-linear-gradient(top, #63f08d, #2bb890);
+    background-image: -o-linear-gradient(top, #63f08d, #2bb890);
+    background-image: linear-gradient(to bottom, #63f08d, #2bb890);
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 15px 40px 11px 38px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container {
+    width: 100%;
+    background-color:#2bb890;
+    padding-top: 100px;
+    text-align: center;
+  } 
+.copy {
+    margin-bottom: 0px;
+    color: white;
+    margin-top: 50px;
+}  
+.move{
+    position: relative;
+    right: 10px;
+}
+.color{
+    color: white;
+}

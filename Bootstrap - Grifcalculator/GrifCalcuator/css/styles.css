@@ -1,0 +1,163 @@
+#title {
+    background-color: #2ae336;
+    padding-bottom: 100px;
+}
+.Meet {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.9rem;
+    padding-bottom: 10px;
+    line-height: 1.6;
+}
+.container-fluid {
+      --bs-gutter-x: 0rem;
+    --bs-gutter-y: 0;
+    padding: 5% 10%;
+
+}
+.hill{
+    margin: 2px 5px;
+}
+.logo{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-item{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+}
+a:hover {
+    color: rgb(0, 0, 0);
+}
+.img1{
+    transform: rotate(19deg);
+    width: 25%;
+    position: absolute;
+    right: 200px;
+    border: grey;
+    border: 3px solid;
+}   
+.pink{
+    color: #2ae336;
+}
+span{
+    width: 50%;
+}
+.center{
+    text-align: center;
+}
+h3{
+    font-family:'Montserrat', sans-serif ;
+    font-size:150% ;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+p{
+    margin-bottom: 7%;
+    color: black;
+    font-size: 1.1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pink:hover{
+    color:#000000;
+
+}
+#testimonials{
+    background-color: #2ae336;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+    line-height: 1;
+}
+.logo{
+    width: 15%;
+    margin: 30px 30px;
+    border-radius: 100%;
+}
+#press{
+    background-color: #2ae336;
+    text-align: center;
+
+}
+.press-logo{
+    width: 15%;
+    margin: 0px 20px 20px;
+}
+.carousel-item{
+    padding: 15% 17%;
+    padding-bottom: 50px;
+}
+
+#pricing{
+    padding: 100px;
+}
+h2{
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 10px;
+}
+
+.card-header{
+    margin-top: 0px;
+}
+.card{
+    margin: 20px;
+}
+button{
+    margin: 5px;
+}
+
+#features{
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    height: 70%;
+    padding: 8% 8%;
+}
+
+#testimonials{
+    position: relative;
+    z-index: 1;
+    padding-bottom: 0px;
+}
+
+
+@media (max-width:1028px){
+    .img1{
+        position: static;
+        transform: rotate(0);
+        width: 50%;
+        margin-top: 60px;
+    }
+    #title{
+        text-align: center;
+    }
+
+}
+#cta{
+    background-color: #2ae336;
+    padding: 5% 0%;
+    text-align: center;
+    color: white;
+}
+.cta-font{
+    font-size: 2rem;
+    line-height: 1.5;
+}
+#footer{
+    padding: 5% 0%;
+    color: black;
+    line-height: 1;
+    word-spacing: 10px;
+    text-align: center;
+}
+.navbar{
+    padding-bottom: 5%;
+}
+.nav-font{
+    font-size: 1.5rem;
+    padding-right: 10px;
+}
